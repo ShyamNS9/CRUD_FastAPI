@@ -1,0 +1,5 @@
+venv4crudfastapi
+__pycache__
+.idea
+.env
+temp
